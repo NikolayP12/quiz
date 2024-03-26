@@ -1089,3 +1089,6 @@ $string['basicideasofquiz'] = 'The basic ideas of quiz-making';
 
 // Deprecated since Moodle 4.3.
 $string['completionminattemptsgroup'] = 'Require attempts';
+
+// Para mostrar el id del cuestionario
+$string['quizid'] = 'Quiz id';

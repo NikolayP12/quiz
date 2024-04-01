@@ -1032,6 +1032,7 @@ $string['timestr'] = '%H:%M:%S on %d/%m/%y';
 $string['timesup'] = 'Time is up!';
 $string['timetaken'] = 'Time taken';
 $string['timing'] = 'Timing';
+$string['quizid'] = 'Quiz id'; // Used to show the ID.
 $string['tofile'] = 'to file';
 $string['tolerance'] = 'Tolerance';
 $string['toomanyrandom'] = 'The number of random questions required is more than are still available in the category!';
@@ -1089,6 +1090,3 @@ $string['basicideasofquiz'] = 'The basic ideas of quiz-making';
 
 // Deprecated since Moodle 4.3.
 $string['completionminattemptsgroup'] = 'Require attempts';
-
-// Para mostrar el id del cuestionario
-$string['quizid'] = 'Quiz id';

@@ -85,8 +85,8 @@ class mod_quiz_mod_form extends moodleform_mod
         $mform->addRule('name', null, 'required', null, 'client');
         $mform->addRule('name', get_string('maximumchars', '', 255), 'maxlength', 255, 'client');
 
+        // Add a static field that will show the quizz ID.
         if (!empty($this->_instance)) {
-            // Añade un campo estático para mostrar el ID del cuestionario
             $mform->addElement('static', 'quizid', get_string('quizid', 'quiz'), $this->_instance);
         }
 

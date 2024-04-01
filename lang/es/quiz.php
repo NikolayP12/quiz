@@ -22,4 +22,4 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['quizid'] = 'Id del Cuestionario';
+$string['quizid'] = 'Id del Cuestionario'; // Used to show the ID.

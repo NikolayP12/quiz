@@ -1,13 +1,13 @@
 # SQLab question
 
-## Instalation of the extension plugin quiz
+## Instalation of the extension quiz plugin
 
 This extension is designed to enhance the existing Quiz module in Moodle. Follow these steps to install the extension:
 This plugin should replace the existing quiz plugin in your Moodle installation directory.
 
     {your/moodle/dirroot}/mod/quiz/
 
-Due to this plugin does not modify the install.xml, it is not necessary to uninstall the original. It is as simple as replacing a folder and that's it
+Due to this plugin does not modify the install.xml, it is not necessary to uninstall the original. It is as simple as replacing the folder and that's it
 
 ## License
 
@@ -27,8 +27,9 @@ If not, see <https://www.gnu.org/licenses/>.
 
 ## Purpose
 
-In order to know the id of the questionnaires this extension has been developed to provide the teachers information about wich is this ID.
-The ID can be found in the configuration section of the created quiz, under the field that contains the quiz name, the field can be found as "Quiz id". It is necesary for the "SQLab" plugin.
+In order to know the ID of the questionnaires, this extension has been developed to provide the teachers information about wich is this ID.
+The ID can be found in the configuration section of the created quiz, under the field that contains the quiz name, the field can be found as "Quiz id".
+This extension is necesary for the "SQLab" plugin.
 
 ## Configuration and Usage
 
@@ -38,7 +39,7 @@ This ID is used by the "SQLab" plugin to find the questionnaire that contains th
 
 The "SQLab" plugin can be find in this url:
 
-    url to Jose's plugin
+    git url to Jose's plugin
 
 The "SQLquestion" plugin can be find in this url:
 

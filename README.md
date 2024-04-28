@@ -7,7 +7,7 @@ This plugin should replace the existing quiz plugin in your Moodle installation 
 
     {your/moodle/dirroot}/mod/quiz/
 
-Due to this plugin does not modify the install.xml, it is not necessary to uninstall the original. It is as simple as replacing the folder and that's it
+Due to this plugin does not modify the install.xml, it is not necessary to uninstall the original. It is as simple as replacing the folder and that's it. Once the folder has been replaced, the next step is to log in as administrator and purge the cache. To do this go to \_Site administration > \_Development > \_Purge caches and select the buttom "Purge all caches".
 
 ## License
 

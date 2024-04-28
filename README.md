@@ -39,7 +39,7 @@ This ID is used by the "SQLab" plugin to find the questionnaire that contains th
 
 The "SQLab" plugin can be find in this url:
 
-    git url to Jose's plugin
+    https://github.com/josefernandez02/sqlab.git
 
 The "SQLquestion" plugin can be find in this url:
 
